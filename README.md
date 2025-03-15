@@ -1,12 +1,21 @@
-# React + Vite
+##  Visão geral
+Esta é uma solução para o [ desafio do componente de código QR no Frontend Mentor ](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Replicar o design do desafio do componente de código QR do Frontend Mentor.
 
-Currently, two official plugins are available:
+###  Captura de tela
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./images/QRCODE.gif)
 
-## Expanding the ESLint configuration
+###  Links
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- URL da solução: [https://github.com/viniciusMaranhao/Qr-code-Front-End-Mentor-/]
+- URL do site ao vivo: [https://viniciusmaranhao.github.io/Qr-code-Front-End-Mentor-/]
+
+##  Construído com
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+- Flexbox
+
+##  Autor
+- Frontend Mentor - [ @viniciusMaranhao ](https://www.frontendmentor.io/profile/viniciusMaranhao)
