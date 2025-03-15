@@ -12,7 +12,7 @@ export function Card() {
           </header>
 
           <div className={styles.cardContainer}>
-            <span className={styles.tag}>Apredizado</span>
+            <span className={styles.tag}>Aprender</span>
             <p className={styles.publishDate}>Publicado em 21 de dezembro de 2023</p>
             <h1 className={styles.title}>Fundamentos de HTML e CSS</h1>
             <p className={styles.description}>Essas linguagens são a espinha dorsal de todo site, definindo estrutura, conteúdo e apresentação.</p>
