@@ -1,4 +1,6 @@
 import styles from './Card.module.css';
+import image from '../assets/images/illustration-article.svg'
+import imagePerfil from '../assets/images/perfil.jfif'
 
 export function Card() {
     return (
@@ -6,7 +8,7 @@ export function Card() {
       <main className={styles.container}>
         <article className={styles.card}>
           <header className={styles.cardImg}>
-            <img src="../assets/images/illustration-article.svg" />
+            <img src={image} />
           </header>
 
           <div className={styles.cardContainer}>
@@ -16,7 +18,7 @@ export function Card() {
             <p className={styles.description}>Essas linguagens são a espinha dorsal de todo site, definindo estrutura, conteúdo e apresentação.</p>
 
             <footer className={styles.author}>
-              <img src="../assets/images/perfil.jfif" alt="Foto do autor" className={styles.authorImage} />
+              <img src={imagePerfil} alt="Foto do autor" className={styles.authorImage} />
               <span className={styles.authorName}>Vinícius Almeida</span>
             </footer>
           </div>
