@@ -1,21 +1,20 @@
+# Card HTML & CSS - (INICIANTE)
 ##  Visão geral
-Esta é uma solução para o [ desafio do componente de código QR no Frontend Mentor ](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
-
-Replicar o design do desafio do componente de código QR do Frontend Mentor.
+Esta é uma solução para o [ desafio do "Blog preview card" no Frontend Mentor ](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
+O Desáfio é de replicar o design proposto.
 
 ###  Captura de tela
 
-![](./images/QRCODE.gif)
+![](./src/assets/images/HtmleCSS.webp)
 
 ###  Links
 
 - URL da solução: [https://github.com/viniciusMaranhao/Qr-code-Front-End-Mentor-/]
-- URL do site ao vivo: [https://viniciusmaranhao.github.io/Qr-code-Front-End-Mentor-/]
+- Url do meu Desáfio: []
 
 ##  Construído com
-- Marcação HTML5 semântica
-- Propriedades personalizadas de CSS
-- Flexbox
+- React JS
+- JAVASCRIPT
 
 ##  Autor
-- Frontend Mentor - [ @viniciusMaranhao ](https://www.frontendmentor.io/profile/viniciusMaranhao)
+- Frontend Mentor - [ @vinicius-2a ](https://www.frontendmentor.io/profile/vinicius-2a)
