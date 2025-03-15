@@ -9,8 +9,8 @@ O Desáfio é de replicar o design proposto.
 
 ###  Links
 
-- URL da solução: [https://github.com/viniciusMaranhao/Qr-code-Front-End-Mentor-/]
-- Url do meu Desáfio: []
+- Url do meu Desáfio no FrontendMentor: []
+- URL da solução no GitHub: [https://github.com/Vinicius-2a/Card-HTML-CSS-/]
 
 ##  Construído com
 - React JS
