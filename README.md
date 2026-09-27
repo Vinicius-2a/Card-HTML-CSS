@@ -9,8 +9,8 @@ O Desáfio é de replicar o design proposto.
 
 ###  Links
 
-- Url do meu Desáfio no FrontendMentor: []
-- URL da solução no GitHub: [https://github.com/Vinicius-2a/Card-HTML-CSS-/]
+- Url do meu Desáfio no FrontendMentor: [https://www.frontendmentor.io/solutions/pgina-blog-preview-card-feita-em-reactjs-XahAMARhIv]
+- URL da solução: [https://vinicius-2a.github.io/Card-HTML-CSS/]
 
 ##  Construído com
 - React JS
