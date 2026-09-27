@@ -1,4 +1,4 @@
-# Card HTML & CSS - (INICIANTE)
+# blog-preview-card - Frontend Mentor (INICIANTE)
 ##  Visão geral
 Esta é uma solução para o [ desafio do "Blog preview card" no Frontend Mentor ](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 O Desáfio é de replicar o design proposto.
